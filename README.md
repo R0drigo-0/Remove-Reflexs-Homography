@@ -1,6 +1,6 @@
 # Remove Reflexs Homography
 
-## Images test
+## Test images
 <div align="center">
 <img src="Group.png">
 </div>
